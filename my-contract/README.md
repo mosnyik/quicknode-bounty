@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Quicknode Bounty 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## A simple smart contract for record
 
-Try running some of the following tasks:
+The contract takes in a string and updates the blockchain state,
+the current list of strings can be viewed from the blockchain
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
